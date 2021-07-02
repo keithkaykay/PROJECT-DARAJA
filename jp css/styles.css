@@ -1,0 +1,58 @@
+body{
+  background-color: #3e537c;
+  font-family: 'Shadows Into Light', cursive;
+}
+.card{
+  background-color: #3e537c;
+  font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+#contactus{
+  background-color: #354d70;
+  font: bolder;
+  text-shadow: #3e537c;
+  color: #B2A528;
+  text-align: center;
+  font-size: 30px;
+  padding-bottom: 2%;
+  border-radius: 25%;
+  font-family: 'Shadows Into Light', cursive;
+
+}
+#aboutus{
+  background-color: #1C3150;
+  color: #B2A528;
+  text-align: center;
+  padding:2%;
+  border-radius: 40%;
+  margin-top: 4%;
+  margin-bottom: 4%;
+  font-family: 'Shadows Into Light', cursive;
+
+}
+#back{
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 30px;
+  color: #B2A528;
+  text-align: left;
+}
+p{
+  text-align: center;
+  font-style: 'Shadows Into Light', cursive;
+  
+}
+.socials{
+font-size: 30px;
+}
+#abtbody{
+  font-size: 24px;
+  background-color: #3e537c;
+  color: #B2A528;
+  text-align: center;
+  padding:1%;
+  border-radius: 10%;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: xx-large;
+}
+.socials{
+  color: #B2A528;
+}
